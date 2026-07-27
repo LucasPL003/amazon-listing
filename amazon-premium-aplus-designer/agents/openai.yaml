@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Premium A+ Designer"
+  short_description: "Create mobile-first Amazon Premium A+ pages"
+  default_prompt: "Use $amazon-premium-aplus-designer to create a seven-image Premium A+ page from my Listing and approved listing-image design output."

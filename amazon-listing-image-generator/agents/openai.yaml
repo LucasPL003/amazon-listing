@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Listing Image Generator"
+  short_description: "基于产品图和风格参考图生成亚马逊主副图"
+  default_prompt: "Use $amazon-listing-image-generator with my 图片解析摘要、附图策划、产品图片和本地风格套系，为我推荐风格并生成亚马逊主副图。"

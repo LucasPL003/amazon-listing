@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Visual Style Director"
+  short_description: "Design and generate cohesive Amazon image systems"
+  default_prompt: "Use $amazon-visual-style-director to turn my Listing image briefs and product images into three complete visual-style samples, then generate a cohesive Amazon image set."

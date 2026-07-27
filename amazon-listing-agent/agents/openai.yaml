@@ -1,0 +1,5 @@
+interface:
+  display_name: "Amazon Listing Agent"
+  short_description: "生成合规亚马逊 Listing 文案"
+  default_prompt: "Use $amazon-listing-agent to generate Amazon Listing copy from product images, product facts, keyword files, marketplace, and optional Alexa for Shopping Q&A."
+

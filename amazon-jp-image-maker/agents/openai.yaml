@@ -1,0 +1,7 @@
+interface:
+  display_name: "Amazon JP Image Maker"
+  short_description: "Create Amazon JP listing image sets."
+  default_prompt: "Use $amazon-jp-image-maker to analyze this Amazon.co.jp competitor link and create a new main/sub image set for my product."
+
+policy:
+  allow_implicit_invocation: true
