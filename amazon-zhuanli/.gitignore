@@ -1,0 +1,9 @@
+config.local.json
+config.local.json.save
+tools/cdp/node_modules/
+__pycache__/
+.ruff_cache/
+.evidence.lock
+*.py[cod]
+runs-free/
+.DS_Store
