@@ -1,0 +1,5 @@
+interface:
+  display_name: "Amazon Listing A+ 2.0"
+  short_description: "Create Amazon Premium A+ image packages."
+  default_prompt: "Use $amazon-listing-aplus-2-0 to plan an Amazon Premium A+ image package from my product assets."
+
