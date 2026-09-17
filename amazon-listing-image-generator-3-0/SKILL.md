@@ -1,5 +1,5 @@
 ---
-name: amazon-listing-image-generator
+name: amazon-listing-image-generator-3-0
 description: Use when generating Amazon main images and secondary listing images from an Amazon Listing image plan, especially when the set must share one product-appropriate style, adapt to a target marketplace, and preserve verified product facts.
 ---
 

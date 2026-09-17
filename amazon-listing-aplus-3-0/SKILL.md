@@ -1,5 +1,5 @@
 ---
-name: amazon-listing-aplus
+name: amazon-listing-aplus-3-0
 description: Use when creating, redesigning, planning, reviewing, or preparing upload-ready Amazon Premium A+ / 高级 A+ image content, including seven-module mobile 1200×900 and separately composed desktop 1464×600 assets, previews, image copy, alt text, or delivery checklists.
 ---
 
